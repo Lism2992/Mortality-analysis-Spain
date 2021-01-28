@@ -1,4 +1,4 @@
-# Mortality-analysis-Spain
+# Análisis de mortalidad en España durante los últimos 30 años.
 
 Análisis de la mortalidad en España durante los últimos 30 años. Los datos originales son obtenidos del portal del INE. El análisis está realizado íntegramente en Python utilizando la librería Pandas para gestionar los DataFrames.
 
